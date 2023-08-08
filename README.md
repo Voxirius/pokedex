@@ -1,6 +1,7 @@
 # pokedex
 
 A new Flutter project.
+In this, I made a Pokedex app for Pokemon for all 151 generation 1 Pokemon. Their images, names and types are shown on cards which can be clicked for more detailed information. 
 
 ## Getting Started
 
